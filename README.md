@@ -4,4 +4,4 @@
 
 Testing the [Streamlit](https://github.com/streamlit/streamlit) library by visualising economic models interactively.
 
-If you know interssting models suggest them in the issue section!
+If you know interesting models suggest them in the issue section!
